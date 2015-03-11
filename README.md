@@ -1,5 +1,5 @@
 # appengine-dart-todos
-> [TodoMVC](http://todomvc.com) backend and frontend using [gcloud](https://pub.dartlang.org/packages/appengine).
+> [TodoMVC](http://todomvc.com) backend and frontend using the [appengine](https://pub.dartlang.org/packages/appengine) Dart package.
 
 ## Prerequisites
 
