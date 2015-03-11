@@ -1,0 +1,13 @@
+name: gcloud_dart_todos
+description: TodoMVC Sample for gcloud-dart
+version: 0.0.1
+homepage: https://github.com/dart-lang/gcloud-todos
+environment:
+  sdk: ">=1.9.0 <2.0.0"
+dependencies:
+  appengine: ">=0.2.6 <0.3.0"
+  browser: ">=0.10.0+2 <0.11.0"
+  rpc: ">=0.1.0 <0.2.0"
+  shelf: ">=0.5.7 <0.6.0"
+  shelf_appengine: ">=0.2.0+1 <0.3.0"
+  shelf_rpc: ">=0.0.2+1 <0.1.0"
